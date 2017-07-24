@@ -14,16 +14,14 @@ class Research extends Component {
           Topics
         </div>
         <div className="c-research__work-list">
-          <div className="c-research__work">
-            <div className="c-research__work-title">
-              Computational Social Science
-            </div>
-          </div>
-          <div className="c-research__work">
-            <div className="c-research__work-title">
-              Topic Modeling
-            </div>
-          </div>
+          <ResearchWork
+            work={{ title: 'Computational Social Science' }}
+            isLinkVisible={false}
+          />
+          <ResearchWork
+            work={{ title: 'Topic Modeling' }}
+            isLinkVisible={false}
+          />
         </div>
       </div>
     );

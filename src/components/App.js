@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import { Link, Route, Switch } from 'react-router-dom';
+import Contact from './Contact';
 import Footer from './Footer';
 import Header from './Header';
 import Home from './Home';
@@ -18,6 +19,7 @@ export default class App extends Component {
             <Route path="/members" component={Members} />
             <Route path="/research" component={Research} />
             <Route path="/links" component={Links} />
+            <Route path="/contact" component={Contact} />
           </Switch>
         </div>
         <Footer />

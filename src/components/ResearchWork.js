@@ -16,32 +16,44 @@ export default class ResearchWork extends Component {
       </a>
     )) : null;
 
+    const titleItem = work.title ? (
+      <div
+        className={classnames(
+          'c-research-work__title',
+          'c-research-work__item'
+        )}
+      >
+        {work.title}
+      </div>
+    ) : null;
+
+    const authorsItem = work.authors ? (
+      <div
+        className={classnames(
+          'c-research-work__authors',
+          'c-research-work__item'
+        )}
+      >
+        {work.authors}
+      </div>
+    ) : null;
+
+    const booktitleItem = work.booktitle ? (
+      <div
+        className={classnames(
+          'c-research-work__booktitle',
+          'c-research-work__item'
+        )}
+      >
+        {work.booktitle}
+      </div>
+    ) : null;
+
     return (
       <div className="c-research-work">
-        <div
-          className={classnames(
-            'c-research-work__title',
-            'c-research-work__item'
-          )}
-        >
-          {work.title}
-        </div>
-        <div
-          className={classnames(
-            'c-research-work__authors',
-            'c-research-work__item'
-          )}
-        >
-          {work.authors}
-        </div>
-        <div
-          className={classnames(
-            'c-research-work__booktitle',
-            'c-research-work__item'
-          )}
-        >
-          {work.booktitle}
-        </div>
+        {titleItem}
+        {authorsItem}
+        {booktitleItem}
         <div className="u-links">
           {linkItems}
         </div>

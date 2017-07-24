@@ -8,7 +8,10 @@ const YEAR = (new Date()).getFullYear();
 class Links extends Component {
   renderLink(link, i) {
     return (
-      <div className="c-links__link-group">
+      <div
+        key={i}
+        className="c-links__link-group"
+      >
         <a
           key={i}
           className="c-links__link"
@@ -48,7 +51,10 @@ class Links extends Component {
       </a>
     );
     return (
-      <div className="c-links__link-group">
+      <div
+        key={`${i}-group`}
+        className="c-links__link-group"
+      >
         {linkCurrYear}
         {linkNextYear}
       </div>
@@ -64,7 +70,10 @@ class Links extends Component {
       </div>
     ) : null;
     return (
-      <div className="c-links__category">
+      <div
+        key={i}
+        className="c-links__category"
+      >
         <div className="c-links__category-title">
           {category.title}
         </div>
