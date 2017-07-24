@@ -6,7 +6,7 @@ const IS_WIN = /^win/.test(process.platform);
 const GULP_PATH = './node_modules/.bin/gulp'
 
 function convertPathForPlatform(path) {
-  return IS_WIN ? path.replace(new RegExp('/', 'g'), '\\') : path;
+  return IS_WIN ? path.replace(new RegExp('/', 'g'), '\\') + '.cmd' : path;
 }
 
 const args = process.argv.length > 2 ? process.argv.slice(2) : [];
