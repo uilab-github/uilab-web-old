@@ -1,0 +1,10 @@
+.c-footer {
+  padding: 20px 0;
+
+  &__contact {
+    border-top: 1px solid color('dark-grey');
+    padding: 20px 0px;
+    font-size: 12px;
+    color: color('dark-grey');
+  }
+}

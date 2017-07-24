@@ -1,0 +1,11 @@
+.c-member-group {
+  &__title {
+    font-size: 18px;
+    color: color('black');
+    font-weight: $bold;
+  }
+
+  &__members {
+    padding: 15px 0;
+  }
+}
