@@ -46,7 +46,7 @@ class Links extends Component {
       </a>
     );
     return (
-      <div className="u-plain-wrapper">
+      <div className="c-links__link-group">
         {linkCurrYear}
         {linkNextYear}
       </div>
@@ -70,6 +70,7 @@ class Links extends Component {
           {linkItems}
           {keywordLinkItems}
         </div>
+        {infoMessage}
       </div>
     )
   }
