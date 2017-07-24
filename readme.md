@@ -7,7 +7,7 @@ If you need to edit contents of the homepage, please edit, commit, push, and mer
 the master branch of this repository.
 
 This is a React-based single page web application written in ES2015, so you need to set up an appropriate
-development environment to build the application bundle if you want to edit this the app.
+development environment to build the application bundle if you want to edit this app.
 However, if you need to simply edit or add some contents in *Members*, *Research*, or *Links* page,
 you can simply edit and push some JSON files then the change will be reflected on the homepage
 without building the application.
