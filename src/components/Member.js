@@ -45,6 +45,7 @@ export default class Member extends Component {
         key={i}
         href={link[1]}
         className="u-links__link"
+        target="_blank"
       >
         {link[0]}
       </a>

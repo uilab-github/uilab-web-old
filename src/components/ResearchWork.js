@@ -11,6 +11,7 @@ export default class ResearchWork extends Component {
         key={key}
         href={links[key]}
         className="u-links__link"
+        target="_blank"
       >
         {key}
       </a>
