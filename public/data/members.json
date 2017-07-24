@@ -166,8 +166,10 @@
         "image":"/public/images/members/jungkook.jpg",
         "name":"Jungkook Park",
         "links":[
-          "Homepage",
-          "https://pjknkda.github.io/"
+          [
+            "Homepage",
+            "https://pjknkda.github.io/"
+          ]
         ],
         "email":"pjknkda@kaist.ac.kr"
       }
@@ -200,8 +202,10 @@
         "image":"/public/images/members/junsoo_park.jpg",
         "name":"Junsoo Park",
         "links":[
-          "Homepage",
-          "https://parkjunsoo91.github.io"
+          [
+            "Homepage",
+            "https://parkjunsoo91.github.io"
+          ]
         ],
         "email":"parkjunsoo91@kaist.ac.kr"
       },
@@ -232,8 +236,10 @@
         "image":"/public/images/members/jiseon_kim.jpg",
         "name":"Jiseon Kim",
         "links":[
-          "Homepage",
-          "https://hikoseon12.github.io/"
+          [
+            "Homepage",
+            "https://hikoseon12.github.io/"
+          ]
         ],
         "email":"jiseon_kim@kaist.ac.kr"
       }
