@@ -1,0 +1,41 @@
+
+.c-research {
+  color: color('dark-grey');
+
+  &__category {
+    padding: 10px 0;
+  }
+
+  &__category-title {
+    padding: 10px 0;
+    font-size: 18px;
+    color: color('black');
+    font-weight: $bold;
+  }
+
+  &__work-list {
+
+  }
+
+  &__work {
+    padding: 10px 0;
+  }
+
+  &__work-item {
+    padding-bottom: 8px;
+  }
+
+  &__work-title {
+    font-size: 15px;
+    color: color('black');
+  }
+
+  &__work-authors {
+    font-size: 12px;
+  }
+
+  &__work-booktitle {
+    font-size: 12px;
+    font-style: italic;
+  }
+}

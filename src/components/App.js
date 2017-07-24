@@ -4,6 +4,7 @@ import Footer from './Footer';
 import Header from './Header';
 import Home from './Home';
 import Members from './Members';
+import Research from './Research';
 
 export default class App extends Component {
   render() {
@@ -14,6 +15,7 @@ export default class App extends Component {
           <Switch>
             <Route exact path="/" component={Home} />
             <Route path="/members" component={Members} />
+            <Route path="/research" component={Research} />
           </Switch>
         </div>
         <Footer />

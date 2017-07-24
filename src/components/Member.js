@@ -44,7 +44,7 @@ export default class Member extends Component {
       <a
         key={i}
         href={link[1]}
-        className="u-link"
+        className="u-links__link"
       >
         {link[0]}
       </a>
@@ -57,7 +57,7 @@ export default class Member extends Component {
         />
         <div className="c-member__body">
           {bodyItems}
-          <div className="u__links">
+          <div className="u-links">
             {linkItems}
           </div>
         </div>
