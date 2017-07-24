@@ -8,14 +8,16 @@ const YEAR = (new Date()).getFullYear();
 class Links extends Component {
   renderLink(link, i) {
     return (
-      <a
-        key={i}
-        className="c-links__link"
-        target="_blank"
-        href={link[1]}
-      >
-        {link[0]}
-      </a>
+      <div className="c-links__link-group">
+        <a
+          key={i}
+          className="c-links__link"
+          target="_blank"
+          href={link[1]}
+        >
+          {link[0]}
+        </a>
+      </div>
     )
   }
 
