@@ -16,7 +16,7 @@
             "B.S. in Mathematics, June 1996, MIT"
           ]
         ],
-        "image":"/public/data/images/members/aliceoh.jpg",
+        "image":"/public/images/members/aliceoh.jpg",
         "name":"Alice Oh",
         "links":[
           [
@@ -38,7 +38,7 @@
             "Bayesian Data Analysis, Hierarchical Bayesian Models, Topic Modeling, Human Cognition Modeling"
           ]
         ],
-        "image":"/public/data/images/members/joon.jpg",
+        "image":"/public/images/members/joon.jpg",
         "name":"Joon Hee Kim",
         "links":[
           [
@@ -55,7 +55,7 @@
             "Emotion & Sentiment Analysis, Bayesian Nonparametrics, Psychological Modeling"
           ]
         ],
-        "image":"/public/data/images/members/suinkim.png",
+        "image":"/public/images/members/suinkim.png",
         "name":"Suin Kim",
         "links":[
           [
@@ -76,7 +76,7 @@
             "Online Learning, Interactive Machine Learning, Social Network, Bayesian Data Analysis"
           ]
         ],
-        "image":"/public/data/images/members/jyb.jpg",
+        "image":"/public/images/members/jyb.jpg",
         "name":"JinYeong Bak",
         "links":[
           [
@@ -97,7 +97,7 @@
             "Computational Social Science, Topic Modeling, Big Data Analysis"
           ]
         ],
-        "image":"/public/data/images/members/jaewon.png",
+        "image":"/public/images/members/jaewon.png",
         "name":"Jae Won Kim ",
         "links":[
           [
@@ -114,7 +114,7 @@
             "Computational Social Science, Topic Modeling"
           ]
         ],
-        "image":"/public/data/images/members/jeongmin.jpg",
+        "image":"/public/images/members/jeongmin.jpg",
         "name":"Jeongmin Byun",
         "links":[
 
@@ -128,7 +128,7 @@
             ""
           ]
         ],
-        "image":"/public/data/images/members/jooyeon.png",
+        "image":"/public/images/members/jooyeon.png",
         "name":"Jooyeon Kim",
         "links":[
 
@@ -142,7 +142,7 @@
             "Represenation Learning, Deep Neural Networks, Psychometrics, Applied Psychology"
           ]
         ],
-        "image":"/public/data/images/members/sungjoon_park.jpg",
+        "image":"/public/images/members/sungjoon_park.jpg",
         "name":"Sungjoon Park",
         "links":[
           [
@@ -159,7 +159,7 @@
             ""
           ]
         ],
-        "image":"/public/data/images/members/jungkook.jpg",
+        "image":"/public/images/members/jungkook.jpg",
         "name":"Jungkook Park",
         "links":[
 
@@ -178,7 +178,7 @@
             ""
           ]
         ],
-        "image":"/public/data/images/members/yeonsw.jpg",
+        "image":"/public/images/members/yeonsw.jpg",
         "name":"Yeon Seonwoo",
         "links":[
 
@@ -192,7 +192,7 @@
             ""
           ]
         ],
-        "image":"/public/data/images/members/junsoo_park.jpg",
+        "image":"/public/images/members/junsoo_park.jpg",
         "name":"Junsoo Park",
         "links":[
 
@@ -206,7 +206,7 @@
             ""
           ]
         ],
-        "image":"/public/data/images/members/jeongmin_cha.jpg",
+        "image":"/public/images/members/jeongmin_cha.jpg",
         "name":"Jeongmin Cha",
         "links":[
           [
@@ -223,7 +223,7 @@
             ""
           ]
         ],
-        "image":"/public/data/images/members/jiseon_kim.jpg",
+        "image":"/public/images/members/jiseon_kim.jpg",
         "name":"Jiseon Kim",
         "links":[
 
@@ -242,7 +242,7 @@
             "Social Network Analysis, Multi-Agent Modeling and Simulation, Game Theory, \nMachine Learning, and Artificial Intelligence"
           ]
         ],
-        "image":"/public/data/images/members/ilchul_moon.jpg",
+        "image":"/public/images/members/ilchul_moon.jpg",
         "name":"Il-chul Moon",
         "links":[
 
@@ -258,7 +258,7 @@
         "attributes":[
 
         ],
-        "image":"/public/data/images/members/ses75.png",
+        "image":"/public/images/members/ses75.png",
         "name":"Eun-Soon Shin",
         "links":[
 
@@ -277,7 +277,7 @@
             ""
           ]
         ],
-        "image":"/public/data/images/members/sooyoung.jpg",
+        "image":"/public/images/members/sooyoung.jpg",
         "name":"Sooyoung Kim",
         "links":[
 
@@ -291,7 +291,7 @@
             ""
           ]
         ],
-        "image":"/public/data/images/members/sohyeong_kim.jpg",
+        "image":"/public/images/members/sohyeong_kim.jpg",
         "name":"Sohyeong Kim",
         "links":[
 
@@ -305,7 +305,7 @@
             ""
           ]
         ],
-        "image":"/public/data/images/members/kimdwkimdw.jpg",
+        "image":"/public/images/members/kimdwkimdw.jpg",
         "name":"Dongwoo Kim (Master's, 2015)",
         "links":[
 
@@ -319,7 +319,7 @@
             ""
           ]
         ],
-        "image":"/public/data/images/members/dongwoo2.png",
+        "image":"/public/images/members/dongwoo2.png",
         "name":"Dongwoo Kim  (Ph.D., 2015)",
         "links":[
           [
@@ -340,7 +340,7 @@
             "Agency for Defense Development"
           ]
         ],
-        "image":"/public/data/images/members/yeool.jpg",
+        "image":"/public/images/members/yeool.jpg",
         "name":"Yeooul Kim  (Master's, 2013)",
         "links":[
 
@@ -354,7 +354,7 @@
             "Ph.D. student, NC Lab @ KAIST"
           ]
         ],
-        "image":"/public/data/images/members/bumsoo_kang.png",
+        "image":"/public/images/members/bumsoo_kang.png",
         "name":"Bumsoo Kang  (Master's, 2013)",
         "links":[
 
@@ -368,7 +368,7 @@
             "Ph.D. student, ANU & NICTA"
           ]
         ],
-        "image":"/public/data/images/members/trung3.png",
+        "image":"/public/images/members/trung3.png",
         "name":"Trung Nguyen (Undergrad Researcher, 2011)",
         "links":[
           [
@@ -385,7 +385,7 @@
             "Master's student, Language Technologies Institute @ CMU"
           ]
         ],
-        "image":"/public/data/images/members/yohanjo.jpg",
+        "image":"/public/images/members/yohanjo.jpg",
         "name":"Yohan Jo (Master's, 2011)",
         "links":[
           [
@@ -406,7 +406,7 @@
             "Ph.D. student, HCI Lab @ KAIST"
           ]
         ],
-        "image":"/public/data/images/members/sunjun_kim.jpg",
+        "image":"/public/images/members/sunjun_kim.jpg",
         "name":"Sunjun Kim (Master's, 2011)",
         "links":[
           [
@@ -423,7 +423,7 @@
             "Financial Services Commission"
           ]
         ],
-        "image":"/public/data/images/members/youngmin_kim.jpg",
+        "image":"/public/images/members/youngmin_kim.jpg",
         "name":"Youngmin Kim (Master's, 2010)",
         "links":[
 
@@ -437,7 +437,7 @@
             "Bluehole Studio"
           ]
         ],
-        "image":"/public/data/images/members/hyunjong_lee.jpg",
+        "image":"/public/images/members/hyunjong_lee.jpg",
         "name":"Hyunjong Peter Lee (Master's, 2010)",
         "links":[
 
@@ -451,7 +451,7 @@
             "AI & Media Lab @ KAIST"
           ]
         ],
-        "image":"/public/data/images/members/francis.jpg",
+        "image":"/public/images/members/francis.jpg",
         "name":"Francis (Master's, 2010)",
         "links":[
 
