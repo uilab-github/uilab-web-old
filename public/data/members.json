@@ -16,12 +16,12 @@
             "B.S. in Mathematics, June 1996, MIT"
           ]
         ],
-        "image":"http://web.uilab.kr/img/members/aliceoh.jpg",
+        "image":"/public/data/images/members/aliceoh.jpg",
         "name":"Alice Oh",
         "links":[
           [
             "Homepage",
-            "http://web.uilab.kr/img/members/aliceoh/"
+            "http://web.uilab.kr/members/aliceoh/"
           ]
         ],
         "email":"alice.oh@kaist.edu"
@@ -38,7 +38,7 @@
             "Bayesian Data Analysis, Hierarchical Bayesian Models, Topic Modeling, Human Cognition Modeling"
           ]
         ],
-        "image":"http://web.uilab.kr/img/members/joon.jpg",
+        "image":"/public/data/images/members/joon.jpg",
         "name":"Joon Hee Kim",
         "links":[
           [
@@ -55,16 +55,16 @@
             "Emotion & Sentiment Analysis, Bayesian Nonparametrics, Psychological Modeling"
           ]
         ],
-        "image":"http://web.uilab.kr/img/members/suinkim.png",
+        "image":"/public/data/images/members/suinkim.png",
         "name":"Suin Kim",
         "links":[
           [
             "Homepage",
-            "http://web.uilab.kr/img/members/suinkim/"
+            "http://web.uilab.kr/members/suinkim/"
           ],
           [
             "CV",
-            "http://web.uilab.kr/img/members/suinkim/suin_kim_cv.pdf"
+            "/public/data/cv/suin_kim_cv.pdf"
           ]
         ],
         "email":"suin.kim@kaist.ac.kr"
@@ -76,16 +76,16 @@
             "Online Learning, Interactive Machine Learning, Social Network, Bayesian Data Analysis"
           ]
         ],
-        "image":"http://web.uilab.kr/img/members/BJY_140.jpg",
+        "image":"/public/data/images/members/jyb.jpg",
         "name":"JinYeong Bak",
         "links":[
           [
             "Homepage",
-            "http://web.uilab.kr/img/members/jinyeongbak/"
+            "http://web.uilab.kr/members/jinyeongbak/"
           ],
           [
             "CV",
-            "http://web.uilab.kr/img/members/jinyeongbak/JinYeong_Bak_CV.pdf"
+            "/public/data/cv/JinYeong_Bak_CV.pdf"
           ]
         ],
         "email":"jy.bak@kaist.ac.kr"
@@ -97,12 +97,12 @@
             "Computational Social Science, Topic Modeling, Big Data Analysis"
           ]
         ],
-        "image":"http://web.uilab.kr/img/members/jaewon.png",
+        "image":"/public/data/images/members/jaewon.png",
         "name":"Jae Won Kim ",
         "links":[
           [
             "Homepage",
-            "http://web.uilab.kr/img/members/jaewonkim/"
+            "http://web.uilab.kr/members/jaewonkim/"
           ]
         ],
         "email":"jaewonk@kaist.ac.kr"
@@ -114,7 +114,7 @@
             "Computational Social Science, Topic Modeling"
           ]
         ],
-        "image":"http://web.uilab.kr/img/members/jeongmin.jpg",
+        "image":"/public/data/images/members/jeongmin.jpg",
         "name":"Jeongmin Byun",
         "links":[
 
@@ -128,7 +128,7 @@
             ""
           ]
         ],
-        "image":"http://web.uilab.kr/img/members/jooyeon.png",
+        "image":"/public/data/images/members/jooyeon.png",
         "name":"Jooyeon Kim",
         "links":[
 
@@ -142,12 +142,12 @@
             "Represenation Learning, Deep Neural Networks, Psychometrics, Applied Psychology"
           ]
         ],
-        "image":"http://web.uilab.kr/img/members/sungjoon_park.jpg",
+        "image":"/public/data/images/members/sungjoon_park.jpg",
         "name":"Sungjoon Park",
         "links":[
           [
             "CV",
-            "http://web.uilab.kr/img/members/sungjoonpark/CV_sungjoon_park.pdf"
+            "/public/data/cv/CV_sungjoon_park.pdf"
           ]
         ],
         "email":"sungjoon.park@kaist.ac.kr"
@@ -159,7 +159,7 @@
             ""
           ]
         ],
-        "image":"http://web.uilab.kr/img/members/jungkook.jpg",
+        "image":"/public/data/images/members/jungkook.jpg",
         "name":"Jungkook Park",
         "links":[
 
@@ -178,7 +178,7 @@
             ""
           ]
         ],
-        "image":"http://web.uilab.kr/img/members/yeonsw.jpg",
+        "image":"/public/data/images/members/yeonsw.jpg",
         "name":"Yeon Seonwoo",
         "links":[
 
@@ -192,7 +192,7 @@
             ""
           ]
         ],
-        "image":"http://web.uilab.kr/img/members/junsoo_park.jpg",
+        "image":"/public/data/images/members/junsoo_park.jpg",
         "name":"Junsoo Park",
         "links":[
 
@@ -206,7 +206,7 @@
             ""
           ]
         ],
-        "image":"http://web.uilab.kr/img/members/jeongmin_cha.jpg",
+        "image":"/public/data/images/members/jeongmin_cha.jpg",
         "name":"Jeongmin Cha",
         "links":[
           [
@@ -223,7 +223,7 @@
             ""
           ]
         ],
-        "image":"http://web.uilab.kr/img/members/jiseon_kim.jpg",
+        "image":"/public/data/images/members/jiseon_kim.jpg",
         "name":"Jiseon Kim",
         "links":[
 
@@ -242,7 +242,7 @@
             "Social Network Analysis, Multi-Agent Modeling and Simulation, Game Theory, \nMachine Learning, and Artificial Intelligence"
           ]
         ],
-        "image":"http://web.uilab.kr/img/members/ilchul_moon.jpg",
+        "image":"/public/data/images/members/ilchul_moon.jpg",
         "name":"Il-chul Moon",
         "links":[
 
@@ -258,7 +258,7 @@
         "attributes":[
 
         ],
-        "image":"http://web.uilab.kr/img/members/ses75.png",
+        "image":"/public/data/images/members/ses75.png",
         "name":"Eun-Soon Shin",
         "links":[
 
@@ -277,7 +277,7 @@
             ""
           ]
         ],
-        "image":"http://web.uilab.kr/img/members/Sooyoung.JPG",
+        "image":"/public/data/images/members/sooyoung.jpg",
         "name":"Sooyoung Kim",
         "links":[
 
@@ -291,7 +291,7 @@
             ""
           ]
         ],
-        "image":"http://web.uilab.kr/img/members/sohyeong_kim.jpg",
+        "image":"/public/data/images/members/sohyeong_kim.jpg",
         "name":"Sohyeong Kim",
         "links":[
 
@@ -305,7 +305,7 @@
             ""
           ]
         ],
-        "image":"http://web.uilab.kr/img/members/kimdwkimdw.jpg",
+        "image":"/public/data/images/members/kimdwkimdw.jpg",
         "name":"Dongwoo Kim (Master's, 2015)",
         "links":[
 
@@ -319,7 +319,7 @@
             ""
           ]
         ],
-        "image":"http://web.uilab.kr/img/members/dongwoo2.png",
+        "image":"/public/data/images/members/dongwoo2.png",
         "name":"Dongwoo Kim  (Ph.D., 2015)",
         "links":[
           [
@@ -340,7 +340,7 @@
             "Agency for Defense Development"
           ]
         ],
-        "image":"http://web.uilab.kr/img/members/yeool.jpg",
+        "image":"/public/data/images/members/yeool.jpg",
         "name":"Yeooul Kim  (Master's, 2013)",
         "links":[
 
@@ -354,7 +354,7 @@
             "Ph.D. student, NC Lab @ KAIST"
           ]
         ],
-        "image":"http://web.uilab.kr/img/members/profile.png",
+        "image":"/public/data/images/members/bumsoo_kang.png",
         "name":"Bumsoo Kang  (Master's, 2013)",
         "links":[
 
@@ -368,7 +368,7 @@
             "Ph.D. student, ANU & NICTA"
           ]
         ],
-        "image":"http://web.uilab.kr/img/members/trung3.png",
+        "image":"/public/data/images/members/trung3.png",
         "name":"Trung Nguyen (Undergrad Researcher, 2011)",
         "links":[
           [
@@ -385,16 +385,16 @@
             "Master's student, Language Technologies Institute @ CMU"
           ]
         ],
-        "image":"http://web.uilab.kr/img/members/yohanjo.jpg",
+        "image":"/public/data/images/members/yohanjo.jpg",
         "name":"Yohan Jo (Master's, 2011)",
         "links":[
           [
             "Homepage",
-            "http://web.uilab.kr/img/members/yohanjo"
+            "http://web.uilab.kr/members/yohanjo"
           ],
           [
             "CV",
-            "http://web.uilab.kr/img/members/yohanjo"
+            "http://web.uilab.kr/members/yohanjo"
           ]
         ],
         "email":"yohan.jo@kaist.ac.kr"
@@ -406,7 +406,7 @@
             "Ph.D. student, HCI Lab @ KAIST"
           ]
         ],
-        "image":"http://web.uilab.kr/img/members/sunjun_kim.jpg",
+        "image":"/public/data/images/members/sunjun_kim.jpg",
         "name":"Sunjun Kim (Master's, 2011)",
         "links":[
           [
@@ -423,7 +423,7 @@
             "Financial Services Commission"
           ]
         ],
-        "image":"http://web.uilab.kr/img/members/youngmin_kim.jpg",
+        "image":"/public/data/images/members/youngmin_kim.jpg",
         "name":"Youngmin Kim (Master's, 2010)",
         "links":[
 
@@ -437,7 +437,7 @@
             "Bluehole Studio"
           ]
         ],
-        "image":"http://web.uilab.kr/img/members/hyunjong_lee.jpg",
+        "image":"/public/data/images/members/hyunjong_lee.jpg",
         "name":"Hyunjong Peter Lee (Master's, 2010)",
         "links":[
 
@@ -451,7 +451,7 @@
             "AI & Media Lab @ KAIST"
           ]
         ],
-        "image":"http://web.uilab.kr/img/members/francis.jpg",
+        "image":"/public/data/images/members/francis.jpg",
         "name":"Francis (Master's, 2010)",
         "links":[
 
