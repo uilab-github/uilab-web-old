@@ -28,7 +28,7 @@ To set up a development environment for this project, follow the instructions be
 1. Run this command to build the bundled JS file when you're done. `uilab-github.github.io$ yarn build`
 1. Commit & push your change.
 
-### Edit Contents
+### Edit contents
 
 If you want to simply edit contents in *Members*, *Research*, or *Links* page,
 edit JSON files in `{repository}/public/data`.
@@ -41,7 +41,7 @@ you don't have to build the `{repository}/build/bundle.js` file before commit & 
 When you're editing those JSON files without development environment, just make sure to check the edited JSON files
 contain **valid** JSON values before uploading.
 
-### Hosting Big Files for Research
+### Hosting big files for research
 
 GitHub Pages site has a size limit of 1 GB, and have a soft bandwidth limit of 100GB per month.
 Therefore, if you want to serve big files on the web and link from the *Research* page,
