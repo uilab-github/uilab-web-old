@@ -1,0 +1,22 @@
+
+.c-research-work {
+  padding: 10px 0;
+
+  &__item {
+    padding-bottom: 8px;
+  }
+
+  &__title {
+    font-size: 15px;
+    color: color('black');
+  }
+
+  &__authors {
+    font-size: 12px;
+  }
+
+  &__booktitle {
+    font-size: 12px;
+    font-style: italic;
+  }
+}

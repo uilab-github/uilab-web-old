@@ -2,7 +2,7 @@ import classnames from 'classnames';
 import React, { Component } from 'react'
 import { Link } from 'react-router-dom';
 import DataLoader from './DataLoader';
-import MemberGroup from './MemberGroup';
+import ResearchWork from './ResearchWork';
 
 const DATA_URL = '/public/data/researches.json';
 
@@ -29,56 +29,14 @@ class Research extends Component {
     );
   }
 
-  renderWork(work, i) {
-    const links = work.links || {};
-    const linkItems = Object.keys(links).map((key, i) => (
-      <a
-        key={key}
-        href={links[key]}
-        className="u-links__link"
-      >
-        {key}
-      </a>
-    ));
-
-    return (
-      <div
-        key={i}
-        className="c-research__work"
-      >
-        <div
-          className={classnames(
-            'c-research__work-title',
-            'c-research__work-item'
-          )}
-        >
-          {work.title}
-        </div>
-        <div
-          className={classnames(
-            'c-research__work-authors',
-            'c-research__work-item'
-          )}
-        >
-          {work.authors}
-        </div>
-        <div
-          className={classnames(
-            'c-research__work-booktitle',
-            'c-research__work-item'
-          )}
-        >
-          {work.booktitle}
-        </div>
-        <div className="u-links">
-          {linkItems}
-        </div>
-      </div>
-    );
-  }
-
   renderCategory(category, i) {
-    const workItems = category.researches.map((work, i) => this.renderWork(work, i));
+    const workItems = category.researches.map((work, i) => (
+      <ResearchWork
+        key={i}
+        work={work}
+        isLinkVisible={true}
+      />
+    ));
     return (
       <div
         key={i}

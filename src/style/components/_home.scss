@@ -1,0 +1,24 @@
+
+.c-home {
+  &__main-image-container {
+    padding: 5px 0;
+  }
+
+  &__main-image {
+    width: 100%;
+    height: auto;
+  }
+
+  &__publications {
+    padding: 10px 0;
+  }
+}
+
+.content .home h2 {
+	margin: 5px 0 10px 0;
+	padding: 0 0 0 0;
+}
+.content .home h2 img {
+	width: 100%;
+	height: auto;
+}
