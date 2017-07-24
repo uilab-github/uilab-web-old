@@ -18,7 +18,12 @@ const DEFAULT_DEV_TOOL = '#eval-source-map';
 const DEFAULT_DEV_HOST = '0.0.0.0';
 const DEFAULT_DEV_PORT = 8080;
 
-gulp.task('clean-build', () => {
+gulp.task('reset-index-html', () => {
+  return gulp.src('./src/index.html')
+    .pipe(gulp.dest('./'));
+});
+
+gulp.task('clean-build', ['reset-index-html'], () => {
   return gulp.src('./build/**/*.*', {read: false})
     .pipe(vinylPaths(del));
 });
@@ -95,8 +100,35 @@ gulp.task('webpack-build', ['clean-build'], callback => {
   });
 });
 
+gulp.task('version-js', ['webpack-build'], () => {
+  return gulp.src('./build/bundle.js')
+    .pipe(rev())
+    .pipe(gulp.dest('./build'))
+    .pipe(rev.manifest('manifest.json'))
+    .pipe(gulp.dest('./build'));
+});
+
+gulp.task('version-import-js', ['version-js'], () => {
+  return gulp.src('./src/index.html')
+    .pipe(revReplace({ manifest: gulp.src('./build/manifest.json') }))
+    .pipe(gulp.dest('./'));
+});
+
+gulp.task('clear-js', ['version-import-js'], () => {
+  return gulp.src('./build/bundle.js', {read: false})
+    .pipe(vinylPaths(del));
+});
+
+gulp.task('clear-manifest', ['version-import-js'], () => {
+  return gulp.src('./build/manifest.json', {read: false})
+    .pipe(vinylPaths(del));
+});
+
+gulp.task('post-webpack-build', ['clear-js', 'clear-manifest']);
+
+
 // Main tasks:
 gulp.task('develop', ['webpack-dev-server']);
-gulp.task('build', ['webpack-build'])
+gulp.task('build', ['webpack-build', 'post-webpack-build'])
 
 gulp.task('default', ['develop']);
