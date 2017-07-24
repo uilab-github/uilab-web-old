@@ -64,7 +64,7 @@
           ],
           [
             "CV",
-            "/public/data/cv/suin_kim_cv.pdf"
+            "/public/cv/suin_kim_cv.pdf"
           ]
         ],
         "email":"suin.kim@kaist.ac.kr"
@@ -85,7 +85,7 @@
           ],
           [
             "CV",
-            "/public/data/cv/JinYeong_Bak_CV.pdf"
+            "/public/cv/JinYeong_Bak_CV.pdf"
           ]
         ],
         "email":"jy.bak@kaist.ac.kr"
@@ -147,7 +147,7 @@
         "links":[
           [
             "CV",
-            "/public/data/cv/CV_sungjoon_park.pdf"
+            "/public/cv/CV_sungjoon_park.pdf"
           ]
         ],
         "email":"sungjoon.park@kaist.ac.kr"
