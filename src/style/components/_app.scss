@@ -4,3 +4,11 @@
     padding: 20px 0;
   }
 }
+
+@media (max-width: 768px) {
+  .c-app {
+    &__body {
+      padding: 4px 0;
+    }
+  }
+}
