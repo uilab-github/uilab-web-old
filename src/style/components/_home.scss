@@ -5,8 +5,16 @@
   }
 
   &__main-image {
+    margin-bottom: 10px;
     width: 100%;
     height: auto;
+  }
+
+  &__publications-title {
+    padding: 10px 0;
+    font-size: 18px;
+    color: color('black');
+    font-weight: $bold;
   }
 
   &__publications {

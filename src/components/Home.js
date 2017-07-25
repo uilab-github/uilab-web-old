@@ -29,6 +29,9 @@ class Home extends Component {
             alt="U&I Lab."
           />
         </div>
+        <div className="c-home__publications-title">
+          Latest publications
+        </div>
         <div className="c-home__publications">
           {publicationItems}
         </div>

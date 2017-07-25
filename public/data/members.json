@@ -172,6 +172,27 @@
           ]
         ],
         "email":"pjknkda@kaist.ac.kr"
+      },
+      {
+        "attributes":[
+          [
+            "research",
+            "Machine Learning, Natural Language Processing, Word Embedding, Cross-lingual Embedding"
+          ]
+        ],
+        "image":"/public/images/members/zakaria.jpg",
+        "name":"Khiati Abdel-ilah Zakaria",
+        "links":[
+          [
+            "Homepage",
+            "http://lezakkaz.github.io"
+          ],
+          [
+            "CV",
+            "/public/cv/zakaria.pdf"
+          ]
+        ],
+        "email":"zakria.ai@kaist.ac.kr"
       }
     ],
     "title":"Ph.D. Candidates"
