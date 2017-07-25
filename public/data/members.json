@@ -286,8 +286,8 @@
       {
         "attributes":[
           [
-            "research",
-            ""
+            "graduate",
+            "Master's, 2016"
           ]
         ],
         "image":"/public/images/members/sooyoung.jpg",
@@ -300,8 +300,8 @@
       {
         "attributes":[
           [
-            "research",
-            ""
+            "graduate",
+            "Master's, 2017"
           ]
         ],
         "image":"/public/images/members/sohyeong_kim.jpg",
@@ -314,12 +314,12 @@
       {
         "attributes":[
           [
-            "research",
-            ""
+            "graduate",
+            "Master's, 2015"
           ]
         ],
         "image":"/public/images/members/kimdwkimdw.jpg",
-        "name":"Dongwoo Kim (Master's, 2015)",
+        "name":"Dongwoo Kim",
         "links":[
 
         ],
@@ -328,12 +328,12 @@
       {
         "attributes":[
           [
-            "research",
-            ""
+            "graduate",
+            "Ph.D., 2015"
           ]
         ],
         "image":"/public/images/members/dongwoo2.png",
-        "name":"Dongwoo Kim  (Ph.D., 2015)",
+        "name":"Dongwoo Kim",
         "links":[
           [
             "Homepage",
@@ -349,12 +349,16 @@
       {
         "attributes":[
           [
+            "graduate",
+            "Master's, 2013"
+          ],
+          [
             "research",
             "Agency for Defense Development"
           ]
         ],
         "image":"/public/images/members/yeool.jpg",
-        "name":"Yeooul Kim  (Master's, 2013)",
+        "name":"Yeooul Kim",
         "links":[
 
         ],
@@ -363,12 +367,16 @@
       {
         "attributes":[
           [
+            "graduate",
+            "Master's, 2013"
+          ],
+          [
             "research",
             "Ph.D. student, NC Lab @ KAIST"
           ]
         ],
         "image":"/public/images/members/bumsoo_kang.png",
-        "name":"Bumsoo Kang  (Master's, 2013)",
+        "name":"Bumsoo Kang",
         "links":[
 
         ],
@@ -377,12 +385,16 @@
       {
         "attributes":[
           [
+            "graduate",
+            "Undergraduate Researcher, 2011"
+          ],
+          [
             "research",
             "Ph.D. student, ANU & NICTA"
           ]
         ],
         "image":"/public/images/members/trung3.png",
-        "name":"Trung Nguyen (Undergrad Researcher, 2011)",
+        "name":"Trung Nguyen",
         "links":[
           [
             "Homepage",
@@ -394,33 +406,34 @@
       {
         "attributes":[
           [
+            "graduate",
+            "Master's, 2012"
+          ],
+          [
             "research",
             "Master's student, Language Technologies Institute @ CMU"
           ]
         ],
         "image":"/public/images/members/yohanjo.jpg",
-        "name":"Yohan Jo (Master's, 2011)",
+        "name":"Yohan Jo",
         "links":[
-          [
-            "Homepage",
-            "http://web.uilab.kr/members/yohanjo"
-          ],
-          [
-            "CV",
-            "http://web.uilab.kr/members/yohanjo"
-          ]
+
         ],
         "email":"yohan.jo@kaist.ac.kr"
       },
       {
         "attributes":[
           [
+            "graduate",
+            "Master's, 2011"
+          ],
+          [
             "research",
             "Ph.D. student, HCI Lab @ KAIST"
           ]
         ],
         "image":"/public/images/members/sunjun_kim.jpg",
-        "name":"Sunjun Kim (Master's, 2011)",
+        "name":"Sunjun Kim",
         "links":[
           [
             "CV",
@@ -432,12 +445,16 @@
       {
         "attributes":[
           [
+            "graduate",
+            "Master's, 2010"
+          ],
+          [
             "research",
             "Financial Services Commission"
           ]
         ],
         "image":"/public/images/members/youngmin_kim.jpg",
-        "name":"Youngmin Kim (Master's, 2010)",
+        "name":"Youngmin Kim",
         "links":[
 
         ],
@@ -446,12 +463,16 @@
       {
         "attributes":[
           [
+            "graduate",
+            "Master's, 2010"
+          ],
+          [
             "research",
             "Bluehole Studio"
           ]
         ],
         "image":"/public/images/members/hyunjong_lee.jpg",
-        "name":"Hyunjong Peter Lee (Master's, 2010)",
+        "name":"Hyunjong Peter Lee",
         "links":[
 
         ],
@@ -460,12 +481,16 @@
       {
         "attributes":[
           [
+            "graduate",
+            "Master's, 2010"
+          ],
+          [
             "research",
             "AI & Media Lab @ KAIST"
           ]
         ],
         "image":"/public/images/members/francis.jpg",
-        "name":"Francis (Master's, 2010)",
+        "name":"Francisco Arturo Rojas",
         "links":[
 
         ],
