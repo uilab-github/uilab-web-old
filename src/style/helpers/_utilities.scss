@@ -30,3 +30,21 @@
     }
   }
 }
+
+.u-inline-icon {
+  display: inline-block;
+  padding-right: 4px;
+}
+
+.u-spinner {
+  display: block;
+  padding: 20px 0;
+  text-align: center;
+  color: color('dark-grey');
+  font-size: 28px;
+}
+
+.u-text {
+  font-size: 14px;
+  color: color('dark-grey');
+}

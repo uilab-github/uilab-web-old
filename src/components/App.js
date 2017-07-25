@@ -5,6 +5,7 @@ import Footer from './Footer';
 import Header from './Header';
 import Home from './Home';
 import Members from './Members';
+import NotFound from './NotFound';
 import Research from './Research';
 import Links from './Links';
 
@@ -20,6 +21,7 @@ export default class App extends Component {
             <Route path="/research" component={Research} />
             <Route path="/links" component={Links} />
             <Route path="/contact" component={Contact} />
+            <Route path="*" component={NotFound} />
           </Switch>
         </div>
         <Footer />
