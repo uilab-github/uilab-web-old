@@ -3,6 +3,15 @@ import React, { Component } from 'react'
 import { Link } from 'react-router-dom';
 
 export default class Member extends Component {
+  handleLinkClick = eventLabel => {
+    ga('send', {
+      hitType: 'event',
+      eventCategory: 'MemberLink',
+      eventAction: 'click',
+      eventLabel: eventLabel
+    });
+  }
+
   render() {
     const { member } = this.props;
     const bodyItems = [
@@ -46,6 +55,7 @@ export default class Member extends Component {
         href={link[1]}
         className="u-links__link"
         target="_blank"
+        onClick={() => this.handleLinkClick(`${member.email}::${link[0]}`)}
       >
         {link[0]}
       </a>

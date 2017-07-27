@@ -3,6 +3,15 @@ import React, { Component } from 'react'
 import { Link } from 'react-router-dom';
 
 export default class ResearchWork extends Component {
+  handleLinkClick = eventLabel => {
+    ga('send', {
+      hitType: 'event',
+      eventCategory: 'ResearchLink',
+      eventAction: 'click',
+      eventLabel: eventLabel
+    });
+  }
+
   render() {
     const { work, isLinkVisible } = this.props;
     const links = work.links || {};
@@ -12,6 +21,7 @@ export default class ResearchWork extends Component {
         href={links[key]}
         className="u-links__link"
         target="_blank"
+        onClick={() => this.handleLinkClick(`${work.title}::${key}`)}
       >
         {key}
       </a>

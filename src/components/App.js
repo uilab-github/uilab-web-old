@@ -8,11 +8,13 @@ import Members from './Members';
 import NotFound from './NotFound';
 import Research from './Research';
 import Links from './Links';
+import LocationTracker from './LocationTracker';
 
 export default class App extends Component {
   render() {
     return (
       <div className="c-app u-container">
+        <LocationTracker location={this.props.location} />
         <Header />
         <div className="c-app__body">
           <Switch>
