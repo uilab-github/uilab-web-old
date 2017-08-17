@@ -1,6 +1,15 @@
 [
   {
-    "researches":[
+    "researches":[      
+      {
+        "booktitle":"Adjunct Proceedings of the 30th Annual ACM Symposium on User Interface Software & Technology (UIST 2017, Poster)",
+        "authors":"Jungkook Park, Yeong Hoon Park, and Alice Oh",
+        "title":"Non-Linear Editor for Text-Based Screencast",
+        "links":{
+          "Abstract":"/public/research/UIST17/uist2017_editor_park_abstract.pdf",
+          "Poster":"/public/research/UIST17/uist2017_editor_park_poster.pdf"
+        }
+      },
       {
         "booktitle":"The ACM CHI Conference on Human Factors in Computing Systems (CHI 2017, Late-Breaking Work)",
         "authors":"Juhong Park, Suin Kim, and Alice Oh",
@@ -15,11 +24,20 @@
         }
       },
       {
-        "booktitle":"The 20th ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW 2017)",
+        "booktitle":"Companion of the 2017 ACM Conference on Computer Supported Cooperative Work and Social Computing (CSCW 2017, Demo)",
         "authors":"Jungkook Park, Yeong Hoon Park, Suin Kim, and Alice Oh",
         "title":"Eliph: Effective Visualization of Code History for Peer Assessment in Programming Education",
         "links":{
-          "PDF":"/public/research/CSCW17/cscw2017_eliph_park.pdf"
+          "Demo":"/public/research/CSCW17/cscw2017_eliph_park_demo.pdf"
+        }
+      },
+      {
+        "booktitle":"Proceedings of the 2017 ACM Conference on Computer Supported Cooperative Work and Social Computing (CSCW 2017)",
+        "authors":"Jungkook Park, Yeong Hoon Park, Suin Kim, and Alice Oh",
+        "title":"Eliph: Effective Visualization of Code History for Peer Assessment in Programming Education",
+        "links":{
+          "PDF":"/public/research/CSCW17/cscw2017_eliph_park.pdf",
+          "Slides":"/public/research/CSCW17/cscw2017_eliph_park_slides.pdf"
         }
       },
       {
