@@ -111,13 +111,16 @@
         "attributes":[
           [
             "research",
-            "Computational Social Science, Topic Modeling"
+            "Computational Social Science, Topic Modeling, Human-Computer Interaction"
           ]
         ],
         "image":"/public/images/members/jeongmin.jpg",
         "name":"Jeongmin Byun",
         "links":[
-
+          [
+            "Homepage",
+            "https://jmbyun.github.io/"
+          ]
         ],
         "email":"jmbyun@kaist.ac.kr"
       },
