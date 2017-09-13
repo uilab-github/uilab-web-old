@@ -1,6 +1,16 @@
 [
   {
-    "researches":[      
+    "researches":[
+      {
+        "booktitle":"Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing (EMNLP 2017)",
+        "authors":"Sungjoon Park, JinYeong Bak, and Alice Oh",
+        "title":"Rotated Word Vector Representations and their Interpretability",
+        "links":{
+          "PDF":"http://aclweb.org/anthology/D17-1041",
+          "Poster":"https://sungjoonpark.github.io./assets/emnlp2017_poster.pdf",
+          "Source":"https://github.com/SungjoonPark/factor_rotation"
+        }
+      },      
       {
         "booktitle":"Adjunct Proceedings of the 30th Annual ACM Symposium on User Interface Software & Technology (UIST 2017, Poster)",
         "authors":"Jungkook Park, Yeong Hoon Park, and Alice Oh",
