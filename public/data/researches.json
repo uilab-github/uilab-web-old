@@ -30,7 +30,10 @@
         "authors":"Jooyeon Kim, Dongwoo Kim, and Alice Oh",
         "title":"Joint Modeling of Topics, Citations, and Topical Authority in Academic Corpora",
         "links":{
-          "Web":"http://web.uilab.kr/research/files/TACL2017"
+          "Link": "https://www.transacl.org/ojs/index.php/tacl/article/view/1061",
+          "Web": "http://web.uilab.kr/research/files/TACL2017",
+          "PDF": "/public/research/TACL2017/tacl2017_kim.pdf",
+          "Slides": "/public/research/TACL2017/tacl2017_kim_presentation.pdf"
         }
       },
       {
