@@ -2,6 +2,11 @@
   {
     "researches":[
       {
+        "booktitle":"Proceedings of the 11th ACM International Conference on Web Search and Data Mining (WSDM 2018)",
+        "authors":"Jooyeon Kim, Behzad Tabibian, Alice Oh, Bernhard Schölkopf, and Manuel Gomez Rodriguez",
+        "title":"Leveraging the Crowd to Detect and Reduce the Spread of Fake News and Misinformation"
+      }, 
+      {
         "booktitle":"Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing (EMNLP 2017)",
         "authors":"Sungjoon Park, JinYeong Bak, and Alice Oh",
         "title":"Rotated Word Vector Representations and their Interpretability",
