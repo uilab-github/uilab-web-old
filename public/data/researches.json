@@ -17,12 +17,13 @@
         }
       },      
       {
-        "booktitle":"Adjunct Proceedings of the 30th Annual ACM Symposium on User Interface Software & Technology (UIST 2017, Poster)",
+        "booktitle":"Adjunct Publication of the 30th Annual ACM Symposium on User Interface Software & Technology (UIST 2017, Poster)",
         "authors":"Jungkook Park, Yeong Hoon Park, and Alice Oh",
         "title":"Non-Linear Editor for Text-Based Screencast",
         "links":{
-          "Abstract":"/public/research/UIST17/uist2017_editor_park_abstract.pdf",
-          "Poster":"/public/research/UIST17/uist2017_editor_park_poster.pdf"
+          "PDF":"/public/research/UIST17/uist2017_editor_park_abstract.pdf",
+          "Poster":"/public/research/UIST17/uist2017_editor_park_poster.pdf",
+          "ACM DL": "https://dl.acm.org/citation.cfm?id=3131831"
         }
       },
       {
@@ -46,7 +47,8 @@
         "authors":"Jungkook Park, Yeong Hoon Park, Suin Kim, and Alice Oh",
         "title":"Eliph: Effective Visualization of Code History for Peer Assessment in Programming Education",
         "links":{
-          "Demo":"/public/research/CSCW17/cscw2017_eliph_park_demo.pdf"
+          "PDF":"/public/research/CSCW17/cscw2017_eliph_park_demo.pdf",
+          "ACM DL": "https://dl.acm.org/citation.cfm?id=3023266"
         }
       },
       {
@@ -55,7 +57,8 @@
         "title":"Eliph: Effective Visualization of Code History for Peer Assessment in Programming Education",
         "links":{
           "PDF":"/public/research/CSCW17/cscw2017_eliph_park.pdf",
-          "Slides":"/public/research/CSCW17/cscw2017_eliph_park_slides.pdf"
+          "Slides":"/public/research/CSCW17/cscw2017_eliph_park_slides.pdf",
+          "ACM DL": "https://dl.acm.org/citation.cfm?id=2998285"
         }
       },
       {
