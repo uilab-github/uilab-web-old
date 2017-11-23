@@ -35,23 +35,6 @@
         "attributes":[
           [
             "research",
-            "Bayesian Data Analysis, Hierarchical Bayesian Models, Topic Modeling, Human Cognition Modeling"
-          ]
-        ],
-        "image":"/public/images/members/joon.jpg",
-        "name":"Joon Hee Kim",
-        "links":[
-          [
-            "CV",
-            "https://docs.google.com/document/pub?id=1_bA7SD0ivUpB-HhXlgL7ND_l3DO-uTZN2KICMON2ESU"
-          ]
-        ],
-        "email":"joon.kim@kaist.ac.kr"
-      },
-      {
-        "attributes":[
-          [
-            "research",
             "Emotion & Sentiment Analysis, Bayesian Nonparametrics, Psychological Modeling"
           ]
         ],
@@ -307,6 +290,23 @@
   },
   {
     "members":[
+      {
+        "attributes":[
+          [
+            "graduate",
+            "Ph.D., 2017"
+          ]
+        ],
+        "image":"/public/images/members/joon.jpg",
+        "name":"Joon Hee Kim",
+        "links":[
+          [
+            "CV",
+            "https://docs.google.com/document/pub?id=1_bA7SD0ivUpB-HhXlgL7ND_l3DO-uTZN2KICMON2ESU"
+          ]
+        ],
+        "email":"joon.kim@kaist.ac.kr"
+      },
       {
         "attributes":[
           [
