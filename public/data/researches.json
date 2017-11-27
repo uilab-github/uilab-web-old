@@ -4,7 +4,12 @@
       {
         "booktitle":"Proceedings of the 11th ACM International Conference on Web Search and Data Mining (WSDM 2018)",
         "authors":"Jooyeon Kim, Behzad Tabibian, Alice Oh, Bernhard Schölkopf, and Manuel Gomez Rodriguez",
-        "title":"Leveraging the Crowd to Detect and Reduce the Spread of Fake News and Misinformation"
+        "title":"Leveraging the Crowd to Detect and Reduce the Spread of Fake News and Misinformation",
+        "links": {
+          "PDF": "https://people.mpi-sws.org/~manuelgr/pubs/reviewers-misinformation.pdf",
+          "Code": "https://github.com/Networks-Learning/curb/",
+          "Web": "http://learning.mpi-sws.org/curb/"
+        }
       }, 
       {
         "booktitle":"Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing (EMNLP 2017)",
