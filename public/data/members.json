@@ -117,8 +117,10 @@
         "image":"/public/images/members/jooyeon.png",
         "name":"Jooyeon Kim",
         "links":[
-          "CV",
-          "/public/cv/jooyeon_kim_cv.pdf"
+          [
+            "CV",
+            "/public/cv/jooyeon_kim_cv.pdf"
+          ]
         ],
         "email":"jooyeon.kim@kaist.ac.kr"
       },
