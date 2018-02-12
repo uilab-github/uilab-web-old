@@ -8,7 +8,8 @@
         "links": {
           "PDF": "https://people.mpi-sws.org/~manuelgr/pubs/reviewers-misinformation.pdf",
           "Code": "https://github.com/Networks-Learning/curb/",
-          "Web": "http://learning.mpi-sws.org/curb/"
+          "Web": "http://learning.mpi-sws.org/curb/",
+          "Slides": "/public/research/WSDM2018/1206_wsdm_leveraging_kim.pdf"
         }
       }, 
       {
