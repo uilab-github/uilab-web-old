@@ -256,6 +256,23 @@
           ]
         ],
         "email":"jiseon_kim@kaist.ac.kr"
+      },
+      {
+        "attributes":[
+          [
+            "research",
+            ""
+          ]
+        ],
+        "image":"/public/images/members/dongkwan_kim.jpg",
+        "name":"Dongkwan Kim",
+        "links":[
+          [
+            "Homepage",
+            "https://todoaskit.github.io/about"
+          ]
+        ],
+        "email":"dong112d@kaist.ac.kr"
       }
     ],
     "title":"Master Candidates"
