@@ -15,11 +15,19 @@ class Research extends Component {
         </div>
         <div className="c-research__work-list">
           <ResearchWork
+            work={{ title: 'Machine Learning' }}
+            isLinkVisible={false}
+          />
+          <ResearchWork
+            work={{ title: 'Natural Language Processing' }}
+            isLinkVisible={false}
+          />
+          <ResearchWork
             work={{ title: 'Computational Social Science' }}
             isLinkVisible={false}
           />
           <ResearchWork
-            work={{ title: 'Topic Modeling' }}
+            work={{ title: 'Programming Education' }}
             isLinkVisible={false}
           />
         </div>
