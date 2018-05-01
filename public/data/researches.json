@@ -2,6 +2,15 @@
   {
     "researches":[
       {
+        "booktitle":"Proceedings of the Fifth (2018) ACM Conference on Learning@Scale (L@S 2018) (to appear)",
+        "authors":"Jungkook Park, Yeong Hoon Park, Jinhan Kim, Jeongmin Cha, Suin Kim, and Alice oh",
+        "title":"Elicast: Embedding Interactive Exercises in Instructional Programming Screencasts",
+        "links": {
+          "PDF": "/public/research/LAS2018/las2018_park.pdf",
+          "Code": "https://github.com/elicast/elicast/"
+        }
+      }, 
+      {
         "booktitle":"Proceedings of the 11th ACM International Conference on Web Search and Data Mining (WSDM 2018)",
         "authors":"Jooyeon Kim, Behzad Tabibian, Alice Oh, Bernhard Schölkopf, and Manuel Gomez Rodriguez",
         "title":"Leveraging the Crowd to Detect and Reduce the Spread of Fake News and Misinformation",
@@ -92,7 +101,7 @@
         }
       },
       {
-        "booktitle":"L@S: Third Annual ACM Conference on Learning at Scale, 2016",
+        "booktitle":"Proceedings of the Third (2016) ACM Conference on Learning@Scale (L@S 2016)",
         "authors":"Suin Kim, Jae Won Kim, Jungkook Park and Alice Oh",
         "title":"Elice: An online CS Education Platform to Understand How Students Learn Programming",
         "links":{
@@ -101,7 +110,7 @@
         }
       },
       {
-        "booktitle":"L@S: Third Annual ACM Conference on Learning at Scale, 2016",
+        "booktitle":"Proceedings of the Third (2016) ACM Conference on Learning@Scale (L@S 2016)",
         "authors":"Suin Kim, Jae Won Kim, Jungkook Park and Alice Oh",
         "title":"Elivate: A Real-Time Assistant for Student and Lecturer on the Online CS Education Platform",
         "links":{
