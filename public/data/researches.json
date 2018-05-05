@@ -2,6 +2,14 @@
   {
     "researches":[
       {
+        "booktitle":"To appear in Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (ACL 2018)",
+        "authors":"Sungjoon Park, Jeongmin Byun, Sion Baek, Yongseok Cho and Alice Oh",
+        "title":"Subword-level Word Vector Representations for Korean",
+        "links": {
+          "Data": "https://github.com/SungjoonPark/KoreanWordVectors"
+        }
+      },
+      {
         "booktitle":"Proceedings of the Fifth (2018) ACM Conference on Learning@Scale (L@S 2018) (to appear)",
         "authors":"Jungkook Park, Yeong Hoon Park, Jinhan Kim, Jeongmin Cha, Suin Kim, and Alice Oh",
         "title":"Elicast: Embedding Interactive Exercises in Instructional Programming Screencasts",
