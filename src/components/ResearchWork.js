@@ -13,7 +13,7 @@ export default class ResearchWork extends Component {
   }
 
   render() {
-    const { work, isLinkVisible } = this.props;
+    const { work, isLinkVisible, topicMap } = this.props;
     const links = work.links || {};
     const linkItems = isLinkVisible ? Object.keys(links).map((key, i) => (
       <a
@@ -60,11 +60,25 @@ export default class ResearchWork extends Component {
       </div>
     ) : null;
 
+    const topics = work.topics || [];
+    const topicTitles = topics.filter(topic => topic in topicMap).map(topic => topicMap[topic]);
+    const topicItem = work.topics && work.topics.length > 0 ? (
+      <div
+        className={classnames(
+          'c-research-work__topics',
+          'c-research-work__item'
+        )}
+      >
+        {topicTitles.join(', ')}
+      </div>
+    ) : null;
+
     return (
       <div className="c-research-work">
         {titleItem}
         {authorsItem}
         {booktitleItem}
+        {topicItem}
         <div className="u-links">
           {linkItems}
         </div>

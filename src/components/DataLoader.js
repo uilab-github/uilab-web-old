@@ -15,6 +15,7 @@ export default class DataLoader extends Component {
     	this.setState({ data });
     }).catch(err => {
       this.setState({ data: null });
+      console.error('Failed to load data:', err);
     });
   }
 
