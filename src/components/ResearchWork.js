@@ -13,7 +13,11 @@ export default class ResearchWork extends Component {
   }
 
   render() {
-    const { work, isLinkVisible, topicMap } = this.props;
+    const { 
+      work, 
+      isLinkVisible, 
+      topicMap, 
+    } = this.props;
     const links = work.links || {};
     const linkItems = isLinkVisible ? Object.keys(links).map((key, i) => (
       <a
@@ -27,6 +31,25 @@ export default class ResearchWork extends Component {
       </a>
     )) : null;
 
+    const topicIds = work.topics || [];
+    const topics = topicIds
+      .filter(tid => tid in topicMap)
+      .map(tid => topicMap[tid]);
+    const topicTags = topics.map(topic => (
+      <div
+        key={topic.id}
+        className="c-research-work__tag"
+        style={topic.color ? { backgroundColor: topic.color } : {}}
+      >
+        {topic.tag}
+      </div>
+    ));
+    const topicTagsItem = (
+      <div className="c-research-work__tags">
+        {topicTags}
+      </div>
+    );
+
     const titleItem = work.title ? (
       <div
         className={classnames(
@@ -34,7 +57,7 @@ export default class ResearchWork extends Component {
           'c-research-work__item'
         )}
       >
-        {work.title}
+        {work.title} {topicTagsItem}
       </div>
     ) : null;
 
@@ -60,25 +83,11 @@ export default class ResearchWork extends Component {
       </div>
     ) : null;
 
-    const topics = work.topics || [];
-    const topicTitles = topics.filter(topic => topic in topicMap).map(topic => topicMap[topic]);
-    const topicItem = work.topics && work.topics.length > 0 ? (
-      <div
-        className={classnames(
-          'c-research-work__topics',
-          'c-research-work__item'
-        )}
-      >
-        {topicTitles.join(', ')}
-      </div>
-    ) : null;
-
     return (
       <div className="c-research-work">
         {titleItem}
         {authorsItem}
         {booktitleItem}
-        {topicItem}
         <div className="u-links">
           {linkItems}
         </div>

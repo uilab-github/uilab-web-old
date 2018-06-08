@@ -28,7 +28,7 @@ class Research extends Component {
     const topics = data.topics || [];
     const topicMap = {};
     topics.forEach(topic => {
-      topicMap[topic.id] = topic.title;
+      topicMap[topic.id] = topic;
     });
     this.setState({ topicMap });
   }

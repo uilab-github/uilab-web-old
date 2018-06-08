@@ -5,13 +5,15 @@ import { Link } from 'react-router-dom';
 export default class ResearchTopic extends Component {
   renderIcon() {
     const {
+      topic,
       hidden,
     } = this.props;
 
+    const style = topic.color ? { color: topic.color } : {};
     return hidden ? (
-      <i className="fa fa-circle" />
+      <i className="fa fa-circle" style={style} />
     ) : (
-      <i className="fa fa-check-circle" />
+      <i className="fa fa-check-circle" style={style} />
     );
   }
 

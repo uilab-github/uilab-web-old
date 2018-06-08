@@ -23,4 +23,18 @@
   &__topics {
     font-size: 12px;
   }
+
+  &__tags {
+    display: inline-block;
+    padding: 0 4px;
+  }
+
+  &__tag {
+    display: inline-block;
+    margin: 0 2px;
+    background-color: color('dark-grey');
+    padding: 2.5px 4px;
+    font-size: 10px;
+    color: color('white');
+  }
 }

@@ -2,19 +2,27 @@
   "topics": [
     {
       "id": "ml",
-      "title": "Machine Learning"
+      "title": "Machine Learning",
+      "tag": "ML",
+      "color": "#8acb88"
     },
     {
       "id": "nlp",
-      "title": "Natural Language Processing"
+      "title": "Natural Language Processing",
+      "tag": "NLP",
+      "color": "#ffbf46"
     },
     {
       "id": "css",
-      "title": "Computational Social Science"
+      "title": "Computational Social Science",
+      "tag": "CSS",
+      "color": "#b9314f"
     },
     {
       "id": "edu",
-      "title": "Programming Education"
+      "title": "Programming Education",
+      "tag": "EDU",
+      "color": "#6f8695"
     }
   ],
   "categories": [
