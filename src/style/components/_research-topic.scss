@@ -2,11 +2,22 @@
 .c-research-topic {
   display: block;
   padding: 8px 0;
-  font-size: 12px;
   cursor: pointer;
+  overflow: hidden;
 
-  & > .fa {
+  &__title {
+    float: left;
+    font-size: 12px;
+    line-height: 24px;
+    vertical-align: middle;
+  }
+
+  &__check-icon {
+    float: left;
     padding-right: 4px;
+    font-size: 12px;
+    line-height: 24px;
+    vertical-align: middle;
   }
 
   &:hover {

@@ -11,9 +11,9 @@ export default class ResearchTopic extends Component {
 
     const style = topic.color ? { color: topic.color } : {};
     return hidden ? (
-      <i className="fa fa-circle" style={style} />
+      <div className="c-research-topic__check-icon" style={style}>☐</div>
     ) : (
-      <i className="fa fa-check-circle" style={style} />
+      <div className="c-research-topic__check-icon" style={style}>☑</div>
     );
   }
 
@@ -35,7 +35,9 @@ export default class ResearchTopic extends Component {
         onClick={hidden ? showTopic : hideTopic}
       >
         {this.renderIcon()}
-        {topic.title}
+        <div className="c-research-topic__title">
+          {topic.title}
+        </div>
       </a>
     );
   }

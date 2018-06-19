@@ -1,7 +1,6 @@
 import React from 'react';
 import { render } from 'react-dom';
 import { Route, BrowserRouter as Router } from 'react-router-dom';
-import 'font-awesome/css/font-awesome.css';
 import './style/index.scss';
 import './lib/ga';
 import 'isomorphic-fetch';
