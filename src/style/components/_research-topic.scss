@@ -1,0 +1,16 @@
+
+.c-research-topic {
+  display: block;
+  padding: 8px 0;
+  font-size: 12px;
+  cursor: pointer;
+
+  & > .fa {
+    padding-right: 4px;
+  }
+
+  &:hover {
+    text-decoration: underline;
+    color: color('link');
+  }
+}
