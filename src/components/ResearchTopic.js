@@ -11,9 +11,9 @@ export default class ResearchTopic extends Component {
 
     const style = topic.color ? { color: topic.color } : {};
     return hidden ? (
-      <div className="c-research-topic__check-icon" style={style}>☐</div>
+      <i className="c-research-topic__check-icon fa fa-circle" style={style} />
     ) : (
-      <div className="c-research-topic__check-icon" style={style}>☑</div>
+      <i className="c-research-topic__check-icon fa fa-check-circle" style={style} />
     );
   }
 

@@ -12,24 +12,14 @@ export default class ResearchWork extends Component {
     });
   }
 
-  render() {
-    const { 
-      work, 
-      isLinkVisible, 
-      topicMap, 
+  renderTopicTagsItem() {
+    const {
+      work,
+      topicMap,
     } = this.props;
-    const links = work.links || {};
-    const linkItems = isLinkVisible ? Object.keys(links).map((key, i) => (
-      <a
-        key={key}
-        href={links[key]}
-        className="u-links__link"
-        target="_blank"
-        onClick={() => this.handleLinkClick(`${work.title}::${key}`)}
-      >
-        {key}
-      </a>
-    )) : null;
+    if (!topicMap) {
+      return null;
+    }
 
     const topicIds = work.topics || [];
     const topics = topicIds
@@ -44,11 +34,32 @@ export default class ResearchWork extends Component {
         {topic.tag}
       </div>
     ));
-    const topicTagsItem = (
+    return (
       <div className="c-research-work__tags">
         {topicTags}
       </div>
     );
+  }
+
+  render() {
+    const { 
+      work, 
+      isLinkVisible, 
+    } = this.props;
+    const links = work.links || {};
+    const linkItems = isLinkVisible ? Object.keys(links).map((key, i) => (
+      <a
+        key={key}
+        href={links[key]}
+        className="u-links__link"
+        target="_blank"
+        onClick={() => this.handleLinkClick(`${work.title}::${key}`)}
+      >
+        {key}
+      </a>
+    )) : null;
+
+    
 
     const titleItem = work.title ? (
       <div
@@ -57,7 +68,7 @@ export default class ResearchWork extends Component {
           'c-research-work__item'
         )}
       >
-        {work.title} {topicTagsItem}
+        {work.title} {this.renderTopicTagsItem()}
       </div>
     ) : null;
 
