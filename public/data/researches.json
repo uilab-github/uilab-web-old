@@ -38,12 +38,13 @@
           "topics": ["ml", "nlp"]
         },
         {
-          "booktitle": "Proceedings of the Fifth (2018) ACM Conference on Learning@Scale (L@S 2018) (to appear)",
+          "booktitle": "Proceedings of the Fifth (2018) ACM Conference on Learning@Scale (L@S 2018)",
           "authors": "Jungkook Park, Yeong Hoon Park, Jinhan Kim, Jeongmin Cha, Suin Kim, and Alice Oh",
           "title": "Elicast: Embedding Interactive Exercises in Instructional Programming Screencasts",
           "links": {
             "PDF": "/public/research/LAS2018/las2018_park.pdf",
-            "Code": "https://github.com/elicast-research/elicast"
+            "Code": "https://github.com/elicast-research/elicast",
+            "ACM DL": "https://dl.acm.org/citation.cfm?id=3231657"
           },
           "topics": ["edu"]
         },
