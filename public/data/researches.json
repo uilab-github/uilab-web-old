@@ -29,6 +29,14 @@
     {
       "researches": [
         {
+          "booktitle": "To appear in Proceedings of the 31th Annual ACM Symposium on User Interface Software & Technology (UIST 2018)",
+          "authors": "Jungkook Park, Yeong Hoon Park, and Alice Oh",
+          "title": "Non-Linear Editing of Text-Based Screencasts",
+          "links": {
+          },
+          "topics": ["Edu"]
+        },
+        {
           "booktitle": "To appear in Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (ACL 2018)",
           "authors": "Sungjoon Park, Jeongmin Byun, Sion Baek, Yongseok Cho and Alice Oh",
           "title": "Subword-level Word Vector Representations for Korean",
