@@ -35,7 +35,7 @@
           "links": {
             "PDF": "#"
           },
-          "topics": ["edu"]
+          "topics": ["nlp", "css"]
         },
         {
           "booktitle": "To appear in Proceedings of the 31th Annual ACM Symposium on User Interface Software & Technology (UIST 2018)",
