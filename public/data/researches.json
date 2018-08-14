@@ -29,6 +29,15 @@
     {
       "researches": [
         {
+          "booktitle": "To appear in Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing (EMNLP 2018)",
+          "authors": "JinYeong Bak, and Alice Oh",
+          "title": "Conversational Decision Making Model for Predicting King’s Decision in the Annals of the Joseon Dynasty",
+          "links": {
+            "PDF": "#"
+          },
+          "topics": ["edu"]
+        },
+        {
           "booktitle": "To appear in Proceedings of the 31th Annual ACM Symposium on User Interface Software & Technology (UIST 2018)",
           "authors": "Jungkook Park, Yeong Hoon Park, and Alice Oh",
           "title": "Non-Linear Editing of Text-Based Screencasts",
