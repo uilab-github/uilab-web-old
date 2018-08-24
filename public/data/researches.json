@@ -47,10 +47,11 @@
           "topics": ["edu"]
         },
         {
-          "booktitle": "To appear in Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (ACL 2018)",
+          "booktitle": "In Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (ACL 2018)",
           "authors": "Sungjoon Park, Jeongmin Byun, Sion Baek, Yongseok Cho and Alice Oh",
           "title": "Subword-level Word Vector Representations for Korean",
           "links": {
+            "PDF": "http://aclweb.org/anthology/P18-1226",
             "Data": "https://github.com/SungjoonPark/KoreanWordVectors"
           },
           "topics": ["ml", "nlp"]
