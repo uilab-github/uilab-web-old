@@ -9,7 +9,7 @@ export default class Footer extends Component {
           <div className="c-footer__contact">
             Tel. +82 42 350 7749 <br />
             U&amp;I Lab., Room 4417, E3-1 Computer Science Building, <br />
-            KAIST, 291 Daehak-ro, Yuseong-gu, Daejeon 305-701, South Korea
+            KAIST, 291 Daehak-ro, Yuseong-gu, Daejeon 34141, South Korea
           </div>
           <div className="c-footer__links">
             <a
