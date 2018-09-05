@@ -49,7 +49,7 @@ class Contact extends Component {
           </dt>
         	<dd className="c-contact__content">
         		U&I Lab., Room 4417, E3-1 Computer Science Building, <br />
-  			    KAIST, 291 Daehak-ro, Yuseong-gu, Daejeon 305-701, South Korea
+  			    KAIST, 291 Daehak-ro, Yuseong-gu, Daejeon 34141, South Korea
     		  </dd>
       		<dt className="c-contact__label">
             Map
