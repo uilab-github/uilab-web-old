@@ -1,5 +1,25 @@
 
 .c-home {
+  &__announcement {
+    background-color: color('black');
+    margin-bottom: 14px;
+    padding: 12px 12px;
+    font-size: 14px;
+    color: color('white');
+    line-height: 1.4em;
+
+    p {
+      padding: 8px 0;
+    }
+    strong {
+      font-weight: $bold;
+    }
+    a {
+      color: color('lime');
+      text-decoration: underline;
+    }
+  }
+
   &__main-image-container {
     padding: 5px 0;
   }
