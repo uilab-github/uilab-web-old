@@ -373,7 +373,8 @@
             "PDF": "/public/research/ACL2012/ACL2012_bak_kim_oh.pdf",
             "Bibtex": "/public/research/ACL2012/ACL2012_bak_kim_oh_bibtex.txt"
           },
-          "title": "Self-Disclosure and Relationship Strength in Twitter Conversations"
+          "title": "Self-Disclosure and Relationship Strength in Twitter Conversations",
+          "topics": ["nlp"]
         },
         {
           "booktitle": "ACM SIGWEB Newsletter Issue Autumn, Autumn 2012",
