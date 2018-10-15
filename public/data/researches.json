@@ -47,11 +47,12 @@
           "topics": ["nlp", "css"]
         },
         {
-          "booktitle": "To appear in Proceedings of the 31th Annual ACM Symposium on User Interface Software & Technology (UIST 2018)",
+          "booktitle": "In Proceedings of the 31th Annual ACM Symposium on User Interface Software & Technology (UIST 2018)",
           "authors": "Jungkook Park, Yeong Hoon Park, and Alice Oh",
           "title": "Non-Linear Editing of Text-Based Screencasts",
           "links": {
-            "PDF": "/public/research/UIST2018/uist2018_park.pdf"
+            "PDF": "/public/research/UIST2018/uist2018_park.pdf",
+            "ACM DL": "https://dl.acm.org/citation.cfm?id=3242654"
           },
           "topics": ["edu"]
         },
