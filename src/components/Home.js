@@ -22,7 +22,7 @@ class Home extends Component {
     ));
     return (
       <div className="c-home">
-        <div className="c-home__announcement">
+        <div className="c-home__announcement" style={{ display: 'none' }}>
           <p>
             <strong>[공지]</strong><br />
             2019년 봄학기 전산학부 석사과정으로 입학하는 학생 중 U&I Lab에 들어오길 희망하시는 분은 
