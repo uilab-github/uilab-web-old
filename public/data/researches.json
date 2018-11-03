@@ -50,7 +50,7 @@
           "authors": "JinYeong Bak, and Alice Oh",
           "title": "Conversational Decision Making Model for Predicting King’s Decision in the Annals of the Joseon Dynasty",
           "links": {
-            "PDF": "/public/research/EMNLP2018/EMNLP2018_CDMM.pdf"
+            "PDF": "http://aclweb.org/anthology/D18-1115"
           },
           "topics": ["nlp", "css"]
         },
