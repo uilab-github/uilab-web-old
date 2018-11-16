@@ -63,5 +63,14 @@
       ]
     ],
     "title":"Resources"
+  },
+  {
+    "links":[
+      [
+        "eXplainable AI ",
+        "https://xai.kaist.ac.kr"
+      ]
+    ],
+    "title":"Projects"
   }
 ]
