@@ -34,7 +34,7 @@
           "title": "Homogeneity-Based Transmissive Process To Model True and False News in Social Networks",
           "links": {
             "PDF": "/public/research/WSDM2019/wsdm_homogeneity_kim.pdf",
-            "Code & Data": "https://github.com/todoaskit/HBTP"
+            "Code & Data": "https://github.com/dongkwan-kim/HBTP"
           },
           "topics": ["ml", "nlp"]
         },
