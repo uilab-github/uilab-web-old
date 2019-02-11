@@ -33,7 +33,8 @@
           "authors": "Jooyeon Kim, Dongkwan Kim, and Alice Oh",
           "title": "Homogeneity-Based Transmissive Process To Model True and False News in Social Networks",
           "links": {
-            "PDF": "/public/research/WSDM2019/wsdm_homogeneity_kim.pdf",
+            "PDF": "https://arxiv.org/abs/1811.09702",
+            "ACM DL": "https://dl.acm.org/citation.cfm?id=3291009",
             "Code & Data": "https://github.com/dongkwan-kim/HBTP"
           },
           "topics": ["ml", "nlp"]
