@@ -277,7 +277,22 @@
           ]
         ],
         "email":"dongkwan.kim@kaist.ac.kr"
+      },
+      {
+        "attributes":[
+          [
+            "research",
+            ""
+          ]
+        ],
+        "image":"/public/images/members/changmin_lee.jpg",
+        "name":"Changmin Lee",
+        "links":[
+
+        ],
+        "email":"changmin.lee@kaist.ac.kr"
       }
+
     ],
     "title":"Master Candidates"
   },
