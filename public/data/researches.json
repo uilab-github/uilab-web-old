@@ -29,6 +29,15 @@
     {
       "researches": [
         {
+          "booktitle": "To appear in 2019 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL 2019)",
+          "authors": "Sungjoon Park, Donghyun Kim, and Alice Oh",
+          "title": "Conversation Model Fine-Tuning for Classifying Client Utterances in Counseling Dialogues",
+          "links": {
+            "PDF": "https://arxiv.org/abs/1904.00350"
+          },
+          "topics": ["ml", "nlp"]
+        },
+        {
           "booktitle": "Proceedings of the 12th ACM International Conference on Web Search and Data Mining (WSDM 2019)",
           "authors": "Jooyeon Kim, Dongkwan Kim, and Alice Oh",
           "title": "Homogeneity-Based Transmissive Process To Model True and False News in Social Networks",
