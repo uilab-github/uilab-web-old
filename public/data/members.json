@@ -305,6 +305,20 @@
 
         ],
         "email":"hoonhan.d@kaist.ac.kr"
+      },
+      {
+        "attributes":[
+          [
+            "research",
+            ""
+          ]
+        ],
+        "image":"/public/images/members/kiwoong.jpg",
+        "name":"Kiwoong Park",
+        "links":[
+
+        ],
+        "email":"marspak@kaist.ac.kr"
       }
 
     ],
