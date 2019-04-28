@@ -302,7 +302,10 @@
         "image":"/public/images/members/hoon.jpg",
         "name":"Donghoon Han",
         "links":[
-
+          [
+            "Homepage",
+            "https://sites.google.com/view/hoonhan"
+          ]
         ],
         "email":"hoonhan.d@kaist.ac.kr"
       },
