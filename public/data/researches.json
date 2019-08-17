@@ -29,6 +29,14 @@
     {
       "researches": [
         {
+          "booktitle": "Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing (EMNLP 2018)",
+          "authors": "JinYeong Bak, and Alice Oh",
+          "title": "Variational Hierarchical User-based Conversation Model",
+          "links": {
+          },
+          "topics": ["ml", "nlp"]
+        },
+        {
           "booktitle": "Proceedings of the 2019 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL 2019)",
           "authors": "Sungjoon Park, Donghyun Kim, and Alice Oh",
           "title": "Conversation Model Fine-Tuning for Classifying Client Utterances in Counseling Dialogues",
