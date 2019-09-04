@@ -204,62 +204,6 @@
 
         ],
         "email":"yeon.seonwoo@kaist.ac.kr"
-      }
-    ],
-    "title":"Ph.D. Candidates"
-  },
-  {
-    "members":[
-      {
-        "attributes":[
-          [
-            "research",
-            ""
-          ]
-        ],
-        "image":"/public/images/members/junsoo_park.jpg",
-        "name":"Junsoo Park",
-        "links":[
-          [
-            "Homepage",
-            "https://parkjunsoo91.github.io"
-          ]
-        ],
-        "email":"parkjunsoo91@kaist.ac.kr"
-      },
-      {
-        "attributes":[
-          [
-            "research",
-            ""
-          ]
-        ],
-        "image":"/public/images/members/jeongmin_cha.jpg",
-        "name":"Jeongmin Cha",
-        "links":[
-          [
-            "Homepage",
-            "http://jeongmincha.github.io/resume-eng/"
-          ]
-        ],
-        "email":"jeongmin.cha@kaist.ac.kr"
-      },
-      {
-        "attributes":[
-          [
-            "research",
-            ""
-          ]
-        ],
-        "image":"/public/images/members/jiseon_kim.jpg",
-        "name":"Jiseon Kim",
-        "links":[
-          [
-            "Homepage",
-            "https://hikoseon12.github.io/"
-          ]
-        ],
-        "email":"jiseon_kim@kaist.ac.kr"
       },
       {
         "attributes":[
@@ -277,7 +221,12 @@
           ]
         ],
         "email":"dongkwan.kim@kaist.ac.kr"
-      },
+      }
+    ],
+    "title":"Ph.D. Candidates"
+  },
+  {
+    "members":[
       {
         "attributes":[
           [
@@ -333,18 +282,21 @@
         "attributes":[
           [
             "research",
-            "Social Network Analysis, Multi-Agent Modeling and Simulation, Game Theory, \nMachine Learning, and Artificial Intelligence"
+            ""
           ]
         ],
-        "image":"/public/images/members/ilchul_moon.jpg",
-        "name":"Il-chul Moon",
+        "image":"/public/images/members/jiseon_kim.jpg",
+        "name":"Jiseon Kim",
         "links":[
-
+          [
+            "Homepage",
+            "https://hikoseon12.github.io/"
+          ]
         ],
-        "email":"icmoon@smslab.kaist.ac.kr"
+        "email":"jiseon_kim@kaist.ac.kr"
       }
     ],
-    "title":"Collaborator"
+    "title":"Researcher"
   },
   {
     "members":[
