@@ -271,8 +271,24 @@
 
         ],
         "email":"marspak@kaist.ac.kr"
+      },
+      {
+        "attributes": [
+          [
+            "research",
+            ""
+          ]
+        ],
+        "image": "/public/images/members/christoffer_oehrstroem.jpg",
+        "name": "Christoffer Øhrstrøm",
+        "links": [
+          [
+            "GitHub",
+            "https://github.com/ChrisFugl"
+          ]
+        ],
+        "email":"chrisoe@kaist.ac.kr"
       }
-
     ],
     "title":"Master Candidates"
   },
