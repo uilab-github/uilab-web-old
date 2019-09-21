@@ -22,16 +22,16 @@ class Home extends Component {
     ));
     return (
       <div className="c-home">
-        <div className="c-home__announcement" style={{ display: 'none' }}>
+        <div className="c-home__announcement">
           <p>
             <strong>[공지]</strong><br />
-            2019년 봄학기 전산학부 석사과정으로 입학하는 학생 중 U&I Lab에 들어오길 희망하시는 분은 
-            2018년 10월 15일까지 <a href="mailto:alice.oh@kaist.edu">alice.oh@kaist.edu</a> 로 간단한 자기소개와 CV를 보내주세요.
+            2020년 봄학기 전산학부 석사과정으로 입학하는 학생 중 U&I Lab에 들어오길 희망하시는 분은 
+            2019년 10월 6일까지 <a href="mailto:alice.oh@kaist.edu">alice.oh@kaist.edu</a> 로 간단한 자기소개와 CV를 보내주세요.
           </p>
           <p>
             <strong>[Announcement]</strong><br />
             If you are entering KAIST School of Computing as a new MS student 
-            in Spring 2019 and would like to join U&I Lab, please email your introduction and CV to <a href="mailto:alice.oh@kaist.edu">alice.oh@kaist.edu</a> by October 15, 2018.
+            in Spring 2020 and would like to join U&I Lab, please email your introduction and CV to <a href="mailto:alice.oh@kaist.edu">alice.oh@kaist.edu</a> by October 6, 2019.
           </p>
         </div>
         <div className="c-home__main-image-container">
