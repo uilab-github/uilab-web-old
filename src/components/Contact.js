@@ -68,5 +68,6 @@ class Contact extends Component {
 export default GoogleMapLoader(Contact, {
   libraries: ['places'],
   key: MY_API_KEY,
-  region: 'KR'
+  region: 'KR',
+  language: 'en'
 })
